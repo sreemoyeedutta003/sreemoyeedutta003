@@ -39,20 +39,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![DBMS Basics](https://img.shields.io/badge/-DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
 
-##  GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TechExplorer03&theme=radical&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechExplorer03&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechExplorer03&layout=compact&theme=radical&hide_border=true" width="48%">
-</p>
-
----
 
 ##  Featured Projects
 

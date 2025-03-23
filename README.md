@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sreemoyee 👋</h1>
-<h3 align="center">🚀 Tech Explorer | Cybersecurity Enthusiast | AI & Space Science Geek 🚀</h3>
+<h1 align="center">Hi, I'm Sreemoyee </h1>
+<h3 align="center"> Tech Explorer | Cybersecurity Enthusiast | AI & Space Science Geek 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Front-End+Developer;AI+and+Machine+Learning+Explorer;Cybersecurity+Enthusiast;Open-Source+Contributor;Lunar+PSR+Image+Enhancement+Researcher;Lifelong+Tech+Learner!">
@@ -7,32 +7,32 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-- 🔭 Currently working on **Lunar PSR Image Enhancement** using AI.
-- 🛠 Passionate about **Web Applications, AI, and Cybersecurity**.
-- 🚀 Built **School Fees Tracker**, **Self Identifying Mental Health Status App**, and other exciting projects.
-- 📚 Always exploring **AI, Space Science, and Quantum Computing**.
-- 🌱 Learning **Advanced AI Models, Blockchain Security, and Ethical Hacking**.
-- 🎯 Love solving problems, building scalable solutions, and contributing to **open-source**.
+-  Currently working on **Lunar PSR Image Enhancement** using AI.
+-  Passionate about **Web Applications, AI, and Cybersecurity**.
+-  Built **School Fees Tracker**, **Self Identifying Mental Health Status App**, and other exciting projects.
+-  Always exploring **AI, Space Science, and Quantum Computing**.
+-  Learning **Advanced AI Models, Blockchain Security, and Ethical Hacking**.
+-  Love solving problems, building scalable solutions, and contributing to **open-source**.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 🚀 Programming & Scripting  
+###  Programming & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### 🌐 Web Development  
+###  Web Development  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### ⚡ Tools & Technologies  
+###  Tools & Technologies  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -41,7 +41,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TechExplorer03&theme=radical&hide_border=true">
@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |---------|------------|
@@ -64,7 +64,7 @@
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreemoyee-dutta-bb76bb262/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechExplorer03)
@@ -72,5 +72,5 @@
 
 ---
 
-⚡ *“Exploring Tech, Building Solutions, and Pushing Boundaries.”*  
-✨ **Happy Coding! 🚀**
+ *“Exploring Tech, Building Solutions, and Pushing Boundaries.”*  
+ **Happy Coding! **
